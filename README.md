@@ -1,4 +1,4 @@
-# 💓📊 **Diagnostic Heart Health Dashboard** 🩺❤️
+# 💓📊 **CardioCare Insights – Diagnostic Heart Health Dashboard** 🩺❤️
 
 ---
 

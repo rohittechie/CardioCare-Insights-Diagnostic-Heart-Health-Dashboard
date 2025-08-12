@@ -1,7 +1,3 @@
-![Screenshot 2025-02-04 101744](https://github.com/user-attachments/assets/df7247fe-44b9-49f6-a2d5-de14bdab455f)
-![Screenshot 2025-02-04 101731](https://github.com/user-attachments/assets/ea10d1ea-5e00-4f2d-bb82-5bf03379b71b)
-![Screenshot 2025-02-04 101650](https://github.com/user-attachments/assets/ff00dc63-4989-4108-a925-2918387f8b81)
-[2 heart_disease_dataset.csv](https://github.com/user-attachments/files/18651947/2.heart_disease_dataset.csv)
 # 💓📊 **Diagnostic Heart Health Dashboard** 🩺❤️
 
 ---
@@ -56,6 +52,9 @@ This dashboard empowers healthcare professionals, analysts, and researchers to:
 * Tailor **preventive strategies** using real data insights
 
 ---
+![Screenshot 2025-02-04 101744](https://github.com/user-attachments/assets/df7247fe-44b9-49f6-a2d5-de14bdab455f)
+![Screenshot 2025-02-04 101731](https://github.com/user-attachments/assets/ea10d1ea-5e00-4f2d-bb82-5bf03379b71b)
+![Screenshot 2025-02-04 101650](https://github.com/user-attachments/assets/ff00dc63-4989-4108-a925-2918387f8b81)
+[2 heart_disease_dataset.csv](https://github.com/user-attachments/files/18651947/2.heart_disease_dataset.csv)
 
-Do you want me to prepare that?
 
